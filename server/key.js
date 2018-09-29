@@ -1,6 +1,6 @@
 module.exports = 
 {
-    multerDestinition : '../visual/public/img/',
+    multerDestinition : '../client/public/img/',
     algorithmiaClient : 'simBZFwGHnWrc0XLwCwi2UVVkBv1',
     algorithmiaDatabase : 'data://sharma_vivek62/visual',
     ocr : 'ocr/RecognizeCharacters/0.3.0',
