@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "Visual Algorithmia" extension will be documented in this file.
+All notable changes to the "Visual Algorithmia" will be documented in this file.
 
 ## Visual Algorithmia [1.0.0] - 2019-09-01 (Released) 
 ### Added
